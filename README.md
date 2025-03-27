@@ -5,7 +5,7 @@ I'm a passionate web developer with experience in front-end and back-end technol
 - 💬 Ask me about web development
 - 
   ## 🚀 About Me
-- 🌱 I’m currently learning Python,Java,.NET.
+- 🌱 I’m currently learning Python,Java,.NET. Django
 - 👯 I’m looking to collaborate on different open source
 - 📫 How to reach me: nzizadonatien@gmail.com
 
@@ -32,6 +32,10 @@ I'm a passionate web developer with experience in front-end and back-end technol
 - HTML
 - CSS
 - JavaScript
+- Django
+- Dart and Flutter
+- java
+- Laravel
 
   ## GET IN TOUCH
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nziza-donatien-ba16b3280/)
